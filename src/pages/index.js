@@ -4,7 +4,7 @@ import { StaticImage } from 'gatsby-plugin-image'
 
 const IndexPage = () => {
   return (
-    <Layout pageTitle="Casey Jo Noble | Wine Marketing Specialist" pageHeading="Cheers 🥂 I'm Casey Jo">
+    <Layout pageTitle="Home" pageHeading="Cheers 🥂 I'm Casey Jo">
       <p>I help wineries share their stories online.</p>
       <StaticImage
         alt="Stylized image of Casey Jo Noble savoring a glass of white wine"
